@@ -3,7 +3,7 @@ import { useState } from 'react';
 import styles from './index.module.css';
 
 export default function Atividade02() {
-
+<command />
   const [num, setNum] = useState(10);
 
   return (
