@@ -10,7 +10,7 @@
   align-items: center;
   justify-content: space-evenly;
   padding: 2rem;
-  /* border: 0.3rem solid #000; */
+  border: 0.3rem solid #000; 
 }
 
 .texto {
